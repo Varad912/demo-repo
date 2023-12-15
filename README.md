@@ -1,4 +1,4 @@
 # demo-repo
 First repository
 <br>
-Author - myself(UNKNOWN)
+Author - Steven Rogeres
